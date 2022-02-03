@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 100%;
+  z-index: 1;
+}
+
+.headerStyle {
+  color: #8B0000;
+}
+
+.characters {
+  margin-top: 140px;
+  margin-bottom: 60px;
+}
+
+body {
+  background-color: #FFFFE0;
+}
